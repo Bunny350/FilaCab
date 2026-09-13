@@ -2,7 +2,7 @@
 
 ![FilaCab](https://github.com/Bunny350/FilaCab/blob/main/Media/filacab.png)
 
-FilaCab is a 3-spool dry cabinet intended for storing FFF 3D printer filament spools with some Voron design.
+FilaCab is a 3-spool dry cabinet intended for storing FFF 3D printer filament spools with some Voron design. It contains parts derived from [V2, specifically my 150mm mod / OitswilliamV2](https://github.com/Bunny350/OitswilliamV2) and Voron Trident.
 
 ## Because there are no raw materials seen in the CAD, this lists (almost) all the raw materials.
 * Side and back panel mounting brackets: 4X M3x10mm BHCS + 4X M3 T-wing or T-nuts per part, totaling 48X M3x10mm BHCS and 48X M3 T-wing or T-nuts,
@@ -19,4 +19,4 @@ The development began on 2023 with the first method being just heat, but the eff
 
 This project has been released to the public because there are filament manufacturers began building filament dry cabinets, aside non-filament manufacturers have already been building these eons ago.
 
-By using FilaCab, you agree to GNU GPLv3 which is available in the *LICENSE* document.
+By using FilaCab, you agree to GNU GPLv3 which is available in the *LICENSE* document. FilaCab uses some parts from Voron 2, including the door hinge, some parts from Voron Trident, such as the feet, and [Snap Latch by richardjm](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/richardjm/snap-latch-2020).
