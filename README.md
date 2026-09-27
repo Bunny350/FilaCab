@@ -21,7 +21,7 @@ FilaCab is a 3-spool dry cabinet intended for storing FFF 3D printer filament sp
   * SIdes (after the part name), t - top, b - bottom, l - left, r - right. Some parts may use two-side combination i.e. tl\_br, meaning top-left, bottom-right.
 
 ## Development
-The development began on 2023 with the first method being just heat, but the efficiency was too low with constant 200W, the second method replaces it with the Peltier, but it is also inefficient due to lacking of airflow. This is then changed to desiccant-based, which can drop to around 30%.
+The development began on 2023 with the first method being just heat, but the efficiency was too low with constant 200W, the second method replaces it with the Peltier, but it is also inefficient due to lacking of airflow. This is then changed to desiccant-based, which can drop to around 30%, or even around 20%.
 
 This project has been released to the public because there are filament manufacturers began building filament dry cabinets, aside non-filament manufacturers have already been building these eons ago.
 

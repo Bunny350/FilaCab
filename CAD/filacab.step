@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'filacab.step',
-/* time_stamp */ '2026-09-27T14:20:50+08:00',
+/* time_stamp */ '2026-09-27T18:38:38+08:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.2',
@@ -13607,18 +13607,18 @@ POSITIVE_RATIO_MEASURE(1060.),#3556);
 #4166=MANIFOLD_SOLID_BREP('bottom_panel_corner (1)',#120043);
 #4167=MANIFOLD_SOLID_BREP('bottom_panel_corner (2)',#120044);
 #4168=MANIFOLD_SOLID_BREP('bottom_panel_corner (1) (1)',#120045);
-#4169=MANIFOLD_SOLID_BREP('side_bracket_bl_X2',#120046);
-#4170=MANIFOLD_SOLID_BREP('side_bracket_tl_X2',#120047);
-#4171=MANIFOLD_SOLID_BREP('side_bracket_br_X2',#120048);
-#4172=MANIFOLD_SOLID_BREP('side_bracket_tr_X2',#120049);
-#4173=MANIFOLD_SOLID_BREP('side_bracket_bl',#120050);
-#4174=MANIFOLD_SOLID_BREP('side_bracket_tl',#120051);
-#4175=MANIFOLD_SOLID_BREP('side_bracket_br',#120052);
-#4176=MANIFOLD_SOLID_BREP('side_bracket_tr',#120053);
-#4177=MANIFOLD_SOLID_BREP('side_bracket_tl_br_X2',#120054);
-#4178=MANIFOLD_SOLID_BREP('side_bracket_bl_tr_X2',#120055);
-#4179=MANIFOLD_SOLID_BREP('side_bracket_tl (1)',#120056);
-#4180=MANIFOLD_SOLID_BREP('side_bracket_tr (1)',#120057);
+#4169=MANIFOLD_SOLID_BREP('side_bracket_ext_bl_X2',#120046);
+#4170=MANIFOLD_SOLID_BREP('side_bracket_tl_br_X4',#120047);
+#4171=MANIFOLD_SOLID_BREP('side_bracket_ext_br_X2',#120048);
+#4172=MANIFOLD_SOLID_BREP('side_bracket_bl_tr_X4',#120049);
+#4173=MANIFOLD_SOLID_BREP('side_bracket_ext_br_X2',#120050);
+#4174=MANIFOLD_SOLID_BREP('side_bracket_bl_tr_X4',#120051);
+#4175=MANIFOLD_SOLID_BREP('side_bracket_ext_bl_X2',#120052);
+#4176=MANIFOLD_SOLID_BREP('side_bracket_tl_br_X4',#120053);
+#4177=MANIFOLD_SOLID_BREP('side_bracket_tl_br_X4',#120054);
+#4178=MANIFOLD_SOLID_BREP('side_bracket_bl_tr_X4',#120055);
+#4179=MANIFOLD_SOLID_BREP('side_bracket_bl_tr_X4 (1)',#120056);
+#4180=MANIFOLD_SOLID_BREP('side_bracket_tl_br_X4 (2)',#120057);
 #4181=MANIFOLD_SOLID_BREP('top_panel_extrusion_corner_X4',#120058);
 #4182=MANIFOLD_SOLID_BREP('top_panel_extrusion_corner (1)',#120059);
 #4183=MANIFOLD_SOLID_BREP('top_panel_extrusion_corner (2)',#120060);
