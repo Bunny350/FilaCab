@@ -12,7 +12,13 @@ FilaCab is a 3-spool dry cabinet intended for storing FFF 3D printer filament sp
 * Back shield: 16X M3x6mm BHCS + 16X M3 T-wing or T-nuts,
 * Front shield: 9X M3x6mm BHCS, 13X M3x8mm BHCS and 22X M3 T-wing or T-nuts,
 * Dryer unit mounting: at least 4X M3x20mm BHCS + 4X M3 self-locking hex nuts,
-* Door seal magnets: 38X 6x3mm neodymium N35 magnets (the higher, the better) per side, totaling 76X of them.
+* Filament holder with rollers (in case if it ever has MMU implemented): 12X F695 (ZZ or 2RS) bearings (inserted to the holders), 4X M5x10mm BHCS for mounting the roller to the bearings, 8X M3x12mm SHCS and 8X M3 T-wing or T-nuts
+* Door seal magnets: Left 20X 6x3mm neodymium N35 magnets per side, Right 32X 6x3mm neodymium N35 magnets (the higher, the better), per side, totaling 104X of them.
+  * Magnet placement guide: <img src="https://github.com/Bunny350/FilaCab/blob/main/Media/filacab_magnet_placement.svg" height="720"></img>
+* File guides - CAD component
+  * [ref] - reference material used for creating - do not print.
+* File guides - printable parts
+  * SIdes (after the part name), t - top, b - bottom, l - left, r - right. Some parts may use two-side combination i.e. tl\_br, meaning top-left, bottom-right.
 
 ## Development
 The development began on 2023 with the first method being just heat, but the efficiency was too low with constant 200W, the second method replaces it with the Peltier, but it is also inefficient due to lacking of airflow. This is then changed to desiccant-based, which can drop to around 30%.
