@@ -10,7 +10,7 @@ FilaCab is a 3-spool dry cabinet intended for storing FFF 3D printer filament sp
 * Panel shields (top and bottom): 4X M3x8mm SHCS + 4X M3 T-wing or T-nuts per part, totaling 32X M3x8mm SHCS and 32X M3 T-wing or T-nuts,
 * Side shields (except back): 14X M3x6mm BHCS + 14X M3 T-wing or T-nuts and 2X M5x10mm BHCS + 2X M5 T-wing or T-nuts per side, totaling 38X M3x6mm, 38X M3 T-wing or T-nuts, 4X M5x10mm BHCS and 4X M5 T-wing or T-nuts,
 * Back shield: 16X M3x6mm BHCS + 16X M3 T-wing or T-nuts,
-* Front shield: 9X M3x6mm BHCS, 13X M3x8mm BHCS and 22X M3 T-wing or T-nuts,
+* Front shield + frame-side door seal: 16X M3x8mm BHCS and 16X M3 T-wing or T-nuts,
 * Dryer unit mounting: at least 4X M3x20mm BHCS + 4X M3 self-locking hex nuts,
 * Filament holder with rollers (in case if it ever has MMU implemented): 12X F695 (ZZ or 2RS) bearings (inserted to the holders), 4X M5x10mm BHCS for mounting the roller to the bearings, 8X M3x12mm SHCS and 8X M3 T-wing or T-nuts
 * Door seal magnets: Left 20X 6x3mm neodymium N35 magnets per side, Right 32X 6x3mm neodymium N35 magnets (the higher, the better), per side, totaling 104X of them.
